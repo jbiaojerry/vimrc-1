@@ -1,6 +1,3 @@
-" vimrc extends Godson@ustcbbs
-" Last Update: 2010-02-08
-
 let mapleader = ";"    " 比较习惯用;作为命令前缀，右手小拇指直接能按到
 " 把空格键映射成:
 nmap <space> :
